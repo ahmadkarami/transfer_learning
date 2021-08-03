@@ -1,1 +1,1 @@
-# transfer_learning
+# transfer learning for image data
